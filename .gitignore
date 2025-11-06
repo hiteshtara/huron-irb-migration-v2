@@ -10,6 +10,6 @@ data/*.csv
 data/*.pdf
 output/*
 
-# OS files
+# OS filess
 .DS_Store
 Thumbs.db
