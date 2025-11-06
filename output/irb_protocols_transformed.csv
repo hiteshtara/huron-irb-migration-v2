@@ -1,0 +1,3 @@
+protocol:hrn,protocolTitle,principalInvestigator:hrn,reviewType:hrn,personnel::hrn,approvalDate,active
+hrn:hrs:irb:101,Caffeine and Cognition,hrn:hrs:persons:pi001,hrn:hrs:lists:review-type:full-board,"[""hrn:hrs:persons:coi001"", ""hrn:hrs:persons:coi002""]",2024-10-01,True
+hrn:hrs:irb:102,Sleep Deprivation,hrn:hrs:persons:pi002,hrn:hrs:lists:review-type:expedited,"[""hrn:hrs:persons:coi003""]",2024-09-12,False

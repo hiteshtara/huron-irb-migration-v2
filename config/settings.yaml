@@ -1,0 +1,16 @@
+source:
+  protocols_file: "data/protocols.csv"
+  personnel_file: "data/personnel.csv"
+  list_mapping_file: "data/lists_mapping.json"
+  submissions_file: "data/submissions.csv"
+
+target:
+  output_dir: "output"
+  protocols_output: "irb_protocols_transformed.csv"
+  submissions_output: "irb_submissions_transformed.csv"
+  document_zip: "document_import.zip"
+
+hrn_prefix:
+  protocol: "hrn:hrs:irb:"
+  person: "hrn:hrs:persons:"
+  review_type: "hrn:hrs:lists:review-type:"

@@ -1,0 +1,3 @@
+submission:id,protocol:hrn,submissionType:hrn,submissionStatus:hrn,reviewDate
+1001,hrn:hrs:irb:101,hrn:hrs:lists:submission-type:initial-review,hrn:hrs:lists:submission-status:approved,2024-09-25
+1002,hrn:hrs:irb:102,hrn:hrs:lists:submission-type:amendment,hrn:hrs:lists:submission-status:under-review,2024-10-02
